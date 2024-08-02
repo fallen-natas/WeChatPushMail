@@ -3,7 +3,8 @@
 ### Installation
 - `cd /opt && git clone https://github.com/fallen-natas/WeChatPushMail.git`
 	For Debian & Ubuntu
-- `apt install screen -y`
+- `apt install screen python3-full python-is-python3 -y`
+- `pip install itchat-uos`
 - `screen -R WCPM`
 - `cp WeChatPushMail-main WCMP && cd WCPM`
 - `python main.py`
