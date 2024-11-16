@@ -1,6 +1,7 @@
 # WeChatPushMail
 ## Realize WeChat Push by STMP
 ### Installation
+- `May need ROOT`
 - `cd /opt && git clone https://github.com/fallen-natas/WeChatPushMail.git`
 	For Debian & Ubuntu
 - `apt install screen python3-full python-is-python3 -y`
